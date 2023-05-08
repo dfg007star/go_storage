@@ -1,4 +1,4 @@
-module github.com/dima_osin/storage
+module github.com/dfg007star/go_storage
 
 go 1.20
 
