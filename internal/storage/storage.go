@@ -2,7 +2,7 @@ package storage
 
 import (
 	"errors"
-	"github.com/dima_osin/storage/internal/file"
+	"github.com/dfg007star/go_storage/internal/file"
 	"github.com/google/uuid"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 )
-import "github.com/dima_osin/storage/internal/storage"
+import "github.com/dfg007star/go_storage/internal/storage"
 
 func main() {
 	storage := storage.NewStorage()
